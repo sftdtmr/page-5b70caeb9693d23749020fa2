@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2c5539a44a900652518fd388",
+  "owner": "sftdtmr",
+  "repo": "page-5b70caeb9693d23749020fa2",
+  "title": "惊叹号",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5b70caeb9693d23749020fa2",
+      "a": "惊叹号",
+      "b": "",
+      "entity": "惊叹号",
+      "brand": "惊叹号",
+      "separator": "",
+      "path": "index.html",
+      "hash": "19b8d28ae75c44ce0067b6453796aa652215f9b545d0dc64865e1662d9e5ce8e",
+      "content": {
+        "keyword1": "惊叹号",
+        "keyword2": "",
+        "primary_entity": "惊叹号",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "惊叹号是面向个人与团队的机场订阅与VPN加速服务官网，提供多端客户端下载指引、套餐说明、节点接入与订阅导入步骤，助你稳定完成网络加速。",
+          "AI_DESCRIPTION": "惊叹号是面向个人与团队的机场订阅与VPN加速服务官网，提供多端客户端下载指引、套餐说明、节点接入与订阅导入步骤，助你稳定完成网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px;-webkit-text-size-adjust:100%}body{font-family:PingFang SC,Hiragino Sans GB,Microsoft YaHei,sans-serif;background:#f3f0f7;color:#1c1726;line-height:1.7}a{color:#5b2fd6;text-decoration:none}header{background:#2d2150;color:#f7f4ff;padding:14px 16px}header .inner,main,footer .inner{max-width:720px;margin:0 auto}.brand{font-weight:700;font-size:1.15rem}nav{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:10px;font-size:0.92rem}nav a{color:#e8e0ff}main{padding:20px 16px 36px}h1{font-size:1.68rem;line-height:1.35;color:#2a1848;margin:4px 0 12px}h2{font-size:1.26rem;color:#3b2170;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #d9c9f2}h3{font-size:1.04rem;color:#4a2d8a;margin:14px 0 8px}p{margin-bottom:10px}.lead{font-size:1.02rem;color:#3a3348}.card,.plan,.client,.adbox,.links{background:#fff;border:1px solid #e4dcf3;border-radius:12px;padding:16px;margin:12px 0}.plan.featured{border:2px solid #6d3ee8;background:#faf7ff}.price{font-size:1.32rem;color:#5b2fd6;font-weight:700}.muted{color:#5c5568;font-size:0.92rem}.tag{display:inline-block;background:#6d3ee8;color:#fff;font-size:0.75rem;padding:2px 8px;border-radius:999px;vertical-align:middle}ul{padding-left:1.2em;margin-bottom:8px}li{margin-bottom:6px}.step{background:#fff;border-left:4px solid #6d3ee8;padding:12px 14px;margin:10px 0;border-radius:0 10px 10px 0}.step h3{margin-top:0}.num{display:inline-block;background:#6d3ee8;color:#fff;width:1.5rem;height:1.5rem;border-radius:50%;text-align:center;line-height:1.5rem;font-size:0.85rem;margin-right:6px}details{background:#fff;border:1px solid #e4dcf3;border-radius:10px;padding:10px 14px;margin:8px 0}summary{font-weight:600;color:#3b2170}details p{margin:8px 0 4px}footer{background:#2d2150;color:#d9d0ee;padding:24px 16px;font-size:0.88rem}footer a{color:#d7c8ff}.footnav{display:flex;flex-wrap:wrap;gap:8px 12px;margin:10px 0 14px}.adbox,.links{border-style:dashed;border-color:#cbbbe8}</style><header><div class=\"inner\"><div class=\"brand\">惊叹号 · 官方网站</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端选择</a><a href=\"#guide\">操作说明</a><a href=\"#scenes\">使用场景</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官方下载</a></nav></div></header><main><h1>惊叹号：稳定机场订阅与多端 VPN 加速器官方网站</h1><p class=\"lead\">惊叹号面向需要跨境访问、远程协作与内容加速的个人与团队，提供可订阅的机场节点、多协议接入以及主流客户端适配说明。本页集中介绍套餐差异、客户端选择路径、订阅导入步骤与官方下载入口，便于你在一台设备上完成从开通到连线的全过程。</p><section id=\"intro\"><h2>品牌简介</h2><p>惊叹号是以机场订阅为核心的网络加速服务。用户按套餐获取专属订阅链接后，即可在 Windows、macOS、iOS、Android、路由器等环境中导入节点，按规则分流访问国际站点、开发镜像、云会议与流媒体资源。</p><p>服务侧重点有三：一是订阅格式对 Clash、Shadowrocket、Surge、Stash、v2rayN 等常见客户端保持兼容；二是线路覆盖香港、东京、新加坡、洛杉矶与伦敦等常用出口，并在旗舰与团队套餐中提供 IPLC 专线游戏加速优化；三是以官方网站作为套餐说明、客户端指引与工单入口，避免在非官方渠道获取失效订阅。</p><p>惊叹号官网不捆绑来源不明的安装包。客户端请从各应用官方渠道获取，本站只提供选择建议、导入顺序与套餐对照，降低误装风险。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为当前固定套餐。流量按自然月重置，设备数按同时在线统计。按年付可锁定全年价格，适合长期使用的个人与小团队。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p>适合轻度浏览、邮件与资料查阅。若你主要在手机与电脑两台设备间切换，基础版即可完成日常梯子加速。</p></article><article class=\"plan featured\"><h3>旗舰版 <span class=\"tag\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p>旗舰版是大多数个人用户的默认选择：流量余量更从容，原生解锁覆盖更完整，游戏与会议可走专线。客户端侧建议优先使用规则分流，把国内直连与境外加速分开，减少无效消耗。</p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p>面向工作室、跨境小组与多终端办公。可按部门拆分策略：办公域名走稳定中转，构建与镜像走高带宽节点，娱乐流量单独限制，避免互相抢占。</p></article></section><section id=\"scenes\"><h2>使用场景</h2><h3>远程办公与云会议</h3><p>连接香港或新加坡中转后，再访问海外协作平台与会议服务，可降低握手失败与声音卡顿。建议会议时段固定一条延迟更稳的线路，而不是频繁切换。</p><h3>开发构建与学术访问</h3><p>拉取容器镜像、文档站点与代码托管时，把对应域名写入代理规则。惊叹号订阅可在 Clash 类客户端中配合规则集使用，国内包管理器保持直连。</p><h3>流媒体与内容研究</h3><p>旗舰版与团队版强调全节点原生流媒体解锁。播放前先更新订阅，选择标注对应地区的节点，并关闭会干扰播放的全局 UDP 实验选项。</p><h3>游戏与实时对战</h3><p>需要更稳定往返时，使用旗舰版 IPLC 专线游戏加速优化。先在客户端中为游戏进程或端口设置代理，再在游戏内选择邻近区服，避免系统全局代理与游戏加速器重复嵌套。</p><h3>家庭与多设备共用</h3><p>基础版覆盖三台设备，旗舰版五台，团队版二十台。路由器导入一次订阅后，家里平板与智能电视可共享出口，但需留意高峰时段的带宽分配。</p></section><section id=\"clients\"><h2>客户端选择</h2><p>惊叹号把「选对客户端」放在开通之后的第一位。同一条机场订阅，在不同客户端里的规则能力、分流精细度和耗电表现并不相同。请按系统选择，不要混用过旧内核。</p><article class=\"client\" id=\"windows-client\"><h3>Windows</h3><p>日常推荐 Clash Verge Rev 或 Clash Meta 图形客户端，导入订阅后开启规则模式。若你更熟悉传统内核，也可使用 v2rayN，但需手动核对入站端口与系统代理开关。下载请前往对应项目官方发布页，再回到惊叹号订阅页复制链接。</p></article><article class=\"client\" id=\"mac-client\"><h3>macOS</h3><p>轻量用户可用 ClashX Meta；需要网页面板、策略组与脚本增强时选择 Surge。导入后检查「设置为系统代理」与增强模式，避免浏览器仍走直连。</p></article><article class=\"client\" id=\"ios-client\"><h3>iOS 与 iPadOS</h3><p>常用 Shadowrocket、Stash 与 Quantumult X。从 App Store 安装正版后，用「订阅」或「类型 URL」粘贴惊叹号提供的链接，打开远程更新。企业签或来路不明的描述文件不要使用。</p></article><article class=\"client\" id=\"android-client\"><h3>Android</h3><p>推荐 Clash Meta for Android 或 NekoBox。授予 VPN 权限后导入订阅，选择规则分流。部分机型需关闭电池优化，以免后台被清理导致掉线。</p></article><article class=\"client\" id=\"other-client\"><h3>路由器、Linux 与电视</h3><p>OpenWrt、Merlin 可使用 Clash / Mihomo 订阅；Linux 命令行可用 mihomo 或 clash-meta。智能电视若无法安装客户端，可让同一局域网内的路由器接管。团队版支持按网段定制路由，适合办公室出口统一管理。</p></article></section><section id=\"guide\"><h2>操作说明</h2><p>按纵向步骤完成一次完整接入。每一步都可在本页对应锚点回看，无需额外脚本或表单。</p><div class=\"step\"><h3><span class=\"num\">1</span>选择套餐并开通</h3><p>对照流量、设备数与是否需要 IPLC、原生流媒体，选择基础版、旗舰版或团队版。开通后在惊叹号用户中心生成订阅，保留好账户凭证，不要把链接发到公开群组。</p></div><div class=\"step\"><h3><span class=\"num\">2</span>按设备选定客户端</h3><p>回到「客户端选择」一节，只安装与系统匹配的一款主客户端。多开代理程序容易抢占本地端口，表现为能更新订阅却无法上网。</p></div><div class=\"step\"><h3><span class=\"num\">3</span>从官方渠道完成安装</h3><p>Windows 与 Android 以项目 GitHub Releases 或开发者站点为准；苹果设备以 App Store 为准。安装完成后先不要导入来源不明的第三方配置。</p></div><div class=\"step\"><h3><span class=\"num\">4</span>导入惊叹号订阅并更新节点</h3><p>在客户端选择「从 URL 导入 / 添加订阅」，粘贴官网提供的 Clash 或通用订阅地址，执行更新。看到香港、东京、新加坡等策略组即表示导入成功。</p></div><div class=\"step\"><h3><span class=\"num\">5</span>开启规则模式并连接</h3><p>优先使用规则分流而不是全局代理，国内银行与政务站点保持直连。先测延迟再连线，会议与游戏固定节点，流媒体选择解锁标注更明确的出口。若网页打不开，先关闭系统代理再重新开启，确认 TUN 或增强模式已按说明打开。</p></div></section><section id=\"nodes\"><h2>节点、线路与性能说明</h2><p>惊叹号普通线路节点池覆盖亚洲与北美常用城市，适合网页、消息与中等体积下载。旗舰版与团队版在此基础上增加 IPLC 专线与 VIP 高带宽节点，更适合实时互动与大流量同步。</p><p>实际观感与本地宽带、运营商高峰、终端 Wi-Fi 质量有关。建议在客户端内定期更新订阅，删除长期超时的旧节点，保留两条备用线路。流媒体解锁以「原生出口 + 定期维护」为目标，遇版权库调整时，以官网公告中的可用区域为准。</p><p>团队版可申请企业定制路由，例如把办公 SaaS 走稳定中转、构建任务走高带宽、其余流量走默认规则。定制前请整理域名清单，避免把国内视频站误加入代理。</p></section><section id=\"download\"><h2>官方下载与订阅格式</h2><p>惊叹号官方下载入口用于获取订阅说明、套餐对照与客户端选择清单，而不是重新封装第三方加速器。请按系统跳转：</p><ul><li><a href=\"#windows-client\">Windows 客户端选择与导入要点</a></li><li><a href=\"#mac-client\">macOS 客户端选择与导入要点</a></li><li><a href=\"#ios-client\">iOS 客户端选择与导入要点</a></li><li><a href=\"#android-client\">Android 客户端选择与导入要点</a></li><li><a href=\"#other-client\">路由器与 Linux 接入说明</a></li></ul><p>订阅一般提供 Clash / Mihomo YAML 与通用分享链接两类。若客户端提示格式不兼容，先在官网切换订阅类型再更新，不要手工打乱节点名称，以免策略组失效。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>惊叹号是什么？和普通 VPN 加速器有何不同？</summary><p>惊叹号是以机场订阅分发节点的网络加速服务。你得到的是可在多种客户端中导入的订阅，而不是单一封闭 App。这样可以按设备自由选择 Clash、Shadowrocket 等工具，并用规则分流把国内访问留在直连。</p></details><details><summary>如何选择客户端并完成官方下载？</summary><p>先确认系统，再进入本页「客户端选择」。Windows 用 Clash Verge 或 v2rayN，macOS 用 ClashX Meta 或 Surge，iOS 用 Shadowrocket 等 App Store 应用，Android 用 Clash Meta。安装包只从各应用官方渠道获取，惊叹号官网提供导入步骤与套餐说明。</p></details><details><summary>订阅链接导入失败或节点列表为空怎么办？</summary><p>检查链接是否完整复制、客户端是否支持该订阅类型，然后手动点一次「更新」。若仍为空，切换网络后再试，或在官网重新生成订阅。不要把链接填进浏览器地址栏直接打开，那不会完成客户端导入。</p></details><details><summary>基础版、旗舰版、团队版应如何取舍？</summary><p>轻度双设备用基础版；需要原生流媒体、游戏专线与五台设备时选旗舰版；工作室或多终端办公室选团队版。流量以套餐标注为准，超出后当月加速会受限，可升级或等待次月重置。</p></details><details><summary>是否支持流媒体解锁和游戏加速？</summary><p>基础版提供基础流媒体解锁；旗舰版与团队版强调全节点原生解锁，并含 IPLC 专线游戏加速优化。播放或开赛前请更新订阅、选择对应区域节点，并避免与其他加速软件叠加。</p></details><details><summary>同一账号可以登录多少台设备？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。超过限制时，新设备可能无法建立隧道。路由器共享出口会占用设备额度，请按套餐规划。</p></details><details><summary>如何联系惊叹号官方客服？</summary><p>旗舰版含 7x24 优先工单，团队版配备专属客户经理。请通过官网账户内的工单入口提交客户端名称、系统版本与报错截图文字描述，以便核对订阅状态与线路。不要向陌生人提供订阅链接。</p></details></section><section id=\"ads\"><h2>广告位</h2><div class=\"adbox\"><p><strong>客户端工具专栏：</strong>了解规则分流、TUN 模式与订阅更新频率，请先阅读本页操作说明，再访问 <a href=\"#guide\">使用步骤</a> 与 <a href=\"#clients\">客户端选择</a>。</p><p><strong>商务合作：</strong>品牌联名、节点资源互换与内容合作请通过官网客服留言，标注「广告合作」。</p></div></section><section id=\"friends\"><h2>友情链接</h2><div class=\"links\"><p><a href=\"#intro\">惊叹号品牌简介</a> · <a href=\"#plans\">套餐一览</a> · <a href=\"#download\">客户端下载指引</a> · <a href=\"#faq\">机场订阅问答</a> · <a href=\"#guide\">网络加速步骤</a></p><p class=\"muted\">友链仅展示与网络工具说明、客户端文档相关的文本入口，统一使用站内锚点，避免跳转到未核验的外部下载站。</p></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"inner\"><p><strong>惊叹号官方网站</strong>　机场订阅 / VPN 梯子网络加速 / 加速器客户端下载</p><div class=\"footnav\"><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#guide\">步骤</a><a href=\"#scenes\">场景</a><a href=\"#faq\">FAQ</a><a href=\"#download\">下载</a><a href=\"#\">首页</a><a href=\"#\">网站地图</a></div><p>Canonical：https://www.jingtanhao.com/　检索策略：index,follow</p><p>© 2026 惊叹号　保留品牌原意与套餐说明。客户端版权归各开发者所有，本站不提供来源不明的安装包或攻击性利用代码。</p></div></footer>",
+          "hash": "66bb3709e847699a80fe0810c804e3724bba77b600222621033196cf0e5a9b1c",
+          "seo": {
+            "title": "惊叹号官网｜VPN梯子网络加速、机场订阅与客户端下载",
+            "keywords": "惊叹号,惊叹号机场,惊叹号VPN,惊叹号官网,VPN梯子,网络加速,加速器,机场订阅,客户端下载,官方下载,Clash客户端,Shadowrocket",
+            "description": "惊叹号是面向个人与团队的机场订阅与VPN加速服务官网，提供多端客户端下载指引、套餐说明、节点接入与订阅导入步骤，助你稳定完成网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ismomf.cn",
+    "host": "p-10505455c5.ismomf.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "ismomf.cn",
+      "url": "https://ismomf.cn/",
+      "label": "大机场(Big)",
+      "apex": "ismomf.cn",
+      "kind": null,
+      "identity": "cwkfnyqmm/page-c20de132694b3eb7f7d220c3"
+    },
+    {
+      "host": "ahqdlq.cn",
+      "url": "https://ahqdlq.cn/",
+      "label": "惊叹号",
+      "apex": "ahqdlq.cn",
+      "kind": null,
+      "identity": "bfnhwhp/page-3fe0ed535478d99356e98623"
+    },
+    {
+      "host": "lldlhma.cn",
+      "url": "https://lldlhma.cn/",
+      "label": "惊叹号",
+      "apex": "lldlhma.cn",
+      "kind": null,
+      "identity": "mumdvvmp/page-425d267042e0f0154a964214"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1f7788d7df0854f273b12d5a639dad50d4637d6221000ad28b4a3db00c98653f",
+    "sitemap.xml": "6ba78bf286448377f326028dc34c8a4699cf30cd1f39a7c1eb961019669371c2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5e648c710b3cd647b2ccb4808e17be51e572fa87df6acdf905173b771e270e89",
+    "robots.txt": "aede1eec2b19f68e5816e6685694aa6ed8bba8c763d195dcb9c313dee62cd82d",
+    "1aa91e285b5c17464c4cd7eecebf7654.txt": "48802c94d3c6411cbe8ea312a1631c8be366f75036d8d714023bb0f06bcf8ef1"
+  },
+  "revision": "5290ef473232b2dd688aee73f5f6e195470389f13b0b1ea4d80e4cd995ab4864"
+}
